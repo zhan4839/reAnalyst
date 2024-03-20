@@ -1,0 +1,22 @@
+s= qword ptr-50h
+var_48=qwordptr-48h
+var_40=qwordptr-40h
+
+;_unwind{
+ris
+ri4
+ri4,r9
+r13
+ri3d,edx
+r12
+ri2,rcex
+rbp
+rbp,rdi
+rbx
+rsp,38h
+eax,[rdi]
+[rsp+68h+var_58],rsi
+dwordptr[rsp+68h+var_60],r8d
+eax,1
+loc_91C38
+

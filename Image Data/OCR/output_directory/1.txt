@@ -1,0 +1,65 @@
+MmPofl-|:23
+
+IDA-veriT_part1.i64(veriT_part1) Jhome/kali/Desktop/Obfuscation/assignment2/part1/veriT_part1.i64
+FileEditJumpSearchViewDebuggerOptionsWindows_Help
+
+Sa-9 *m7S&%A-~yAOQhoek&F-~FaX-=PDDLocallinuxdebugger~|%lhMRK
+
+il | re
+
+Libraryfunction oi Regularfunction || Instruction Data | | Unexplored Externalsymbol || Luminafunction
+
+[#]Functions Oo & IDAView-A x|fl Names x|fs] Strings x[6)HexView-1 x|{Al Structures x|&) Enums a Imports x|B Exports
+
+7 = ;_unwind_{//_555555554000
+nctionname push r15
+
+sub_5555555E1340 pushr14
+sub_5555555E1540 en
+
+sub_5555555E1590 pushrbp
+
+sub_5555555E1630 co|aapydh
+sub_5555555E1750 mov ebp,_cs:dword_555555646090
+Sub_S555555E17D0 Srest1pe_SSSSSSC09RA6
+sub_5555555E1DD0
+sub_5555555E1F20
+sub_5555555E2790
+sub_5555555E2FCO
+sub_5555555E3180
+sub_5555555E3250
+sub_5555555E33F0
+sub_5555555E3510
+
+sub_5555555E36A0 aITE cepa
+eax,wordptr_cs:shibkey__
+sub_5555555E4270 edx,wordptrcs:subkey_2
+
+~bhOEeeeanne cs:dword_555555646C70,_OAh
+eax,edx
+
+Line646of975 eax,_4A00h
+loc_555555609BA6
+
+ebx,_cs:dword_555555646C70
+
+&_Graphoverview
+
+es:dword_5555556457C0,3
+loc_555555609BA6
+
+af c _
+100.00%(313,138)_(294,0)O00B5F260000555555609F26:_sub_555555609B80:check_1(SynchronizedwithHexView-1)
+
+(=)_Output
+
+TEFFF7ECCO00:loaded/usr/lib/x86_64-linux-gnu/libm.so.6
+7FFFF7E4B000:loaded/usr/lib/x86_64-linux-gnu/libgmp.so.10.4.1
+7FFFF7C6A000:loaded/usr/1lib/x86_64-linux-gnu/libc.so.6
+DWARF:LookingforGNUDWARFfileat"/usr/lib/debug/.build-id/25/5d93fd07f5cf4cc68cf83dbbfdeeed349679e1.debug"...no.
+Debugger:processhasexited(exitcode255)
+
+Caching'Names'...ok
+
+IDC
+AU:idle Down Disk:58GB

@@ -1,0 +1,10 @@
+eax,wordptrcs:subkey_1
+
+edx,wordptrcs:subkey_2
+es:dword_F2C70,OAh
+eax,edx
+
+eax,4A00h
+
+loc_B5BA6
+

@@ -1,0 +1,480 @@
+Combined Results:
+2022-11-30_14_38_31.86: 0x296F0, 0x29880, 0x2971D, 0x2970F
+2022-11-30_15_35_24.735: 0xB0BF, 0xB321, 0xB0A0
+2022-11-30_14_16_20.662: 0xB5B98, 0xB5B80, 0xB5F26, 0xB5B98, 0xB5F89
+2022-11-30_13_48_20.047: 0x91C90, 0x91AA3, 0x919AF, 0x9199F, 0x91FE2, 0x91C38
+2022-11-30_13_49_16.627: 0x91C38, 0x919AF, 0x91970, 0x9199F, 0x91C90, 0x91BE8
+2022-11-30_15_36_56.335: 0xB0BF, 0xB321, 0xB0A0
+2022-11-30_14_37_14.667: 0xB019, 0xB0BF, 0xB0A0
+2022-11-30_14_25_11.823: 0x95EAE, 0x95D14, 0x95E98, 0x95CD0, 0x95E9F, 0x95CF1
+2022-11-30_13_49_17.86: 0x91BE8, 0x9199F, 0x91C38, 0x91970, 0x919AF, 0x91C90
+2022-11-30_14_19_21.348: 0xB5BC2, 0xB5C5F, 0xB5B80, 0xB5B98, 0xB5F26
+2022-11-30_13_46_20.564: 0xB5F4B, 0xB5B98, 0xB5F26, 0xB5BA6
+2022-11-30_13_44_42.858: 0x2A430, 0x2A130, 0x2A14D, 0x2A163
+2022-11-30_14_36_18.034: 0x95D14, 0x95EC1, 0x95E9F, 0x95CC1, 0x95EB7, 0x95D77
+2022-11-30_14_38_10.434: 0x1C9CD, 0x1C229, 0x1C37B, 0x1BD50, 0x1C784
+2022-11-30_15_34_13.94: 0xB321, 0xB0A0, 0xB0BF
+2022-11-30_13_43_17.969: 0x28B7B
+2022-11-30_15_36_42.939: 0xB0A0, 0xB0BF, 0xB321
+2022-11-30_13_43_55.916: 0x539A, 0x4B10
+2022-11-30_13_44_23.807: 0x4C00
+
+
+
+Highest matching block for 2022-11-30_14_38_31.86_1.txt:
+0x296F0
+Matching Ratio: 0.0
+Common Tokens: set()
+Loc Tags Present: False
+
+Highest matching block for 2022-11-30_15_35_24.735_1.txt:
+0xB0BF
+Matching Ratio: 0.4752475247524752
+Common Tokens: {'add', 'jmp'}
+Loc Tags Present: False
+
+Highest matching block for 2022-11-30_14_16_20.662_4.txt:
+0xB5B98
+Matching Ratio: 0.4827586206896552
+Common Tokens: set()
+Loc Tags Present: False
+
+Highest matching block for 2022-11-30_13_48_20.047_0.txt:
+0x91C90
+Matching Ratio: 0.9405940594059405
+Common Tokens: {'my_error', 'lea', 'xor', 'loc_91C90:', 'call'}
+Loc Tags Present: True
+
+Highest matching block for 2022-11-30_13_49_16.627_3.txt:
+0x91C38
+Matching Ratio: 0.8783783783783784
+Common Tokens: {'loc_91C38:', 'cmp', 'mov', 'jnz'}
+Loc Tags Present: True
+
+Highest matching block for 2022-11-30_14_16_20.662_1.txt:
+0xB5B80
+Matching Ratio: 0.0
+Common Tokens: set()
+Loc Tags Present: False
+
+Highest matching block for 2022-11-30_15_36_56.335_1.txt:
+0xB0BF
+Matching Ratio: 0.4077669902912621
+Common Tokens: {'add', 'jmp'}
+Loc Tags Present: False
+
+Highest matching block for 2022-11-30_14_37_14.667_0.txt:
+0xB019
+Matching Ratio: 0.532258064516129
+Common Tokens: {'mov', 'call'}
+Loc Tags Present: False
+
+Highest matching block for 2022-11-30_14_25_11.823_0.txt:
+0x95EAE
+Matching Ratio: 0.5882352941176471
+Common Tokens: {'test', 'jz'}
+Loc Tags Present: False
+
+Highest matching block for 2022-11-30_15_36_56.335_0.txt:
+0xB321
+Matching Ratio: 0.4371584699453552
+Common Tokens: {'mov'}
+Loc Tags Present: False
+
+Highest matching block for 2022-11-30_13_49_17.86_1.txt:
+0x91BE8
+Matching Ratio: 0.35398230088495575
+Common Tokens: set()
+Loc Tags Present: False
+
+Highest matching block for 2022-11-30_14_19_21.348_4.txt:
+0xB5BC2
+Matching Ratio: 0.47692307692307695
+Common Tokens: set()
+Loc Tags Present: False
+
+Highest matching block for 2022-11-30_13_46_20.564_1.txt:
+0xB5F4B
+Matching Ratio: 0.8767123287671232
+Common Tokens: {'loc_B5BA6', 'or', 'jmp'}
+Loc Tags Present: True
+
+Highest matching block for 2022-11-30_14_19_21.348_0.txt:
+0xB5C5F
+Matching Ratio: 0.6268656716417911
+Common Tokens: {'mov'}
+Loc Tags Present: False
+
+Highest matching block for 2022-11-30_13_44_42.858_0.txt:
+0x2A430
+Matching Ratio: 0.6015625
+Common Tokens: {'loc_2A173'}
+Loc Tags Present: True
+
+Highest matching block for 2022-11-30_13_46_20.564_3.txt:
+0xB5B98
+Matching Ratio: 0.6373626373626373
+Common Tokens: set()
+Loc Tags Present: False
+
+Highest matching block for 2022-11-30_13_49_16.627_2.txt:
+0x919AF
+Matching Ratio: 0.6666666666666666
+Common Tokens: {'loc_91BE8'}
+Loc Tags Present: True
+
+Highest matching block for 2022-11-30_14_36_18.034_5.txt:
+0x95D14
+Matching Ratio: 0.6588235294117647
+Common Tokens: set()
+Loc Tags Present: False
+
+Highest matching block for 2022-11-30_14_16_20.662_2.txt:
+0xB5F26
+Matching Ratio: 0.4015151515151515
+Common Tokens: set()
+Loc Tags Present: False
+
+Highest matching block for 2022-11-30_13_49_16.627_5.txt:
+0x91970
+Matching Ratio: 0.3295711060948081
+Common Tokens: {'rbp', 'rbx', 'r12', 'loc_91C38', 'r13'}
+Loc Tags Present: True
+
+Highest matching block for 2022-11-30_14_25_11.823_2.txt:
+0x95D14
+Matching Ratio: 0.6588235294117647
+Common Tokens: set()
+Loc Tags Present: False
+
+Highest matching block for 2022-11-30_14_38_10.434_4.txt:
+0x1C9CD
+Matching Ratio: 0.7633587786259542
+Common Tokens: {'jnz', 'test', 'mov'}
+Loc Tags Present: False
+
+Highest matching block for 2022-11-30_15_34_13.94_0.txt:
+0xB321
+Matching Ratio: 0.4371584699453552
+Common Tokens: {'mov'}
+Loc Tags Present: False
+
+Highest matching block for 2022-11-30_14_16_20.662_3.txt:
+0xB5B98
+Matching Ratio: 0.5454545454545454
+Common Tokens: set()
+Loc Tags Present: False
+
+Highest matching block for 2022-11-30_13_48_20.047_5.txt:
+0x91AA3
+Matching Ratio: 0.43859649122807015
+Common Tokens: set()
+Loc Tags Present: False
+
+Highest matching block for 2022-11-30_13_48_20.047_2.txt:
+0x919AF
+Matching Ratio: 0.6666666666666666
+Common Tokens: {'loc_91BE8'}
+Loc Tags Present: True
+
+Highest matching block for 2022-11-30_13_43_17.969_0.txt:
+0x28B7B
+Matching Ratio: 0.14775160599571735
+Common Tokens: {'mov'}
+Loc Tags Present: False
+
+Highest matching block for 2022-11-30_14_19_21.348_1.txt:
+0xB5B80
+Matching Ratio: 0.0
+Common Tokens: set()
+Loc Tags Present: False
+
+Highest matching block for 2022-11-30_13_49_16.627_4.txt:
+0x9199F
+Matching Ratio: 0.6736842105263158
+Common Tokens: {'loc_91FE2'}
+Loc Tags Present: True
+
+Highest matching block for 2022-11-30_13_44_42.858_3.txt:
+0x2A130
+Matching Ratio: 0.6428571428571429
+Common Tokens: {'mov'}
+Loc Tags Present: False
+
+Highest matching block for 2022-11-30_14_36_18.034_2.txt:
+0x95EC1
+Matching Ratio: 0.5882352941176471
+Common Tokens: {'_malloc'}
+Loc Tags Present: False
+
+Highest matching block for 2022-11-30_14_19_21.348_3.txt:
+0xB5B98
+Matching Ratio: 0.5454545454545454
+Common Tokens: set()
+Loc Tags Present: False
+
+Highest matching block for 2022-11-30_15_35_24.735_0.txt:
+0xB321
+Matching Ratio: 0.4371584699453552
+Common Tokens: {'mov'}
+Loc Tags Present: False
+
+Highest matching block for 2022-11-30_13_48_20.047_4.txt:
+0x9199F
+Matching Ratio: 0.6736842105263158
+Common Tokens: {'loc_91FE2'}
+Loc Tags Present: True
+
+Highest matching block for 2022-11-30_14_38_31.86_2.txt:
+0x29880
+Matching Ratio: 0.44715447154471544
+Common Tokens: set()
+Loc Tags Present: False
+
+Highest matching block for 2022-11-30_14_38_31.86_0.txt:
+0x2971D
+Matching Ratio: 0.658008658008658
+Common Tokens: {'mov'}
+Loc Tags Present: False
+
+Highest matching block for 2022-11-30_15_36_42.939_2.txt:
+0xB0A0
+Matching Ratio: 0.4085106382978723
+Common Tokens: {'movzx'}
+Loc Tags Present: False
+
+Highest matching block for 2022-11-30_14_38_10.434_0.txt:
+0x1C229
+Matching Ratio: 0.6632653061224489
+Common Tokens: {'mov'}
+Loc Tags Present: False
+
+Highest matching block for 2022-11-30_14_16_20.662_0.txt:
+0xB5F89
+Matching Ratio: 0.2926829268292683
+Common Tokens: set()
+Loc Tags Present: False
+
+Highest matching block for 2022-11-30_14_37_14.667_1.txt:
+0xB0BF
+Matching Ratio: 0.3218390804597701
+Common Tokens: {'jmp'}
+Loc Tags Present: False
+
+Highest matching block for 2022-11-30_13_46_20.564_2.txt:
+0xB5F26
+Matching Ratio: 0.616
+Common Tokens: {'loc_B5BA6'}
+Loc Tags Present: True
+
+Highest matching block for 2022-11-30_14_38_10.434_3.txt:
+0x1C37B
+Matching Ratio: 0.3431372549019608
+Common Tokens: set()
+Loc Tags Present: False
+
+Highest matching block for 2022-11-30_13_49_17.86_4.txt:
+0x9199F
+Matching Ratio: 0.6736842105263158
+Common Tokens: {'loc_91FE2'}
+Loc Tags Present: True
+
+Highest matching block for 2022-11-30_15_35_24.735_2.txt:
+0xB0A0
+Matching Ratio: 0.4085106382978723
+Common Tokens: {'movzx'}
+Loc Tags Present: False
+
+Highest matching block for 2022-11-30_14_25_11.823_3.txt:
+0x95E98
+Matching Ratio: 0.6741573033707865
+Common Tokens: {'mov'}
+Loc Tags Present: False
+
+Highest matching block for 2022-11-30_14_36_18.034_4.txt:
+0x95E9F
+Matching Ratio: 0.6033519553072626
+Common Tokens: {'[rax]', '[rax+rdx*8+8]', 'rax,', 'edx,', 'mov', 'sub', '[rax+r15*8+8]', 'rbx,', '1'}
+Loc Tags Present: False
+
+Highest matching block for 2022-11-30_13_44_42.858_2.txt:
+0x2A14D
+Matching Ratio: 0.7892376681614349
+Common Tokens: {'mov', 'loc_2A14D:'}
+Loc Tags Present: True
+
+Highest matching block for 2022-11-30_13_43_55.916_1.txt:
+0x539A
+Matching Ratio: 0.49469964664310956
+Common Tokens: {'mov', 'call', 'xor', '_fprintf'}
+Loc Tags Present: False
+
+Highest matching block for 2022-11-30_14_36_18.034_0.txt:
+0x95CC1
+Matching Ratio: 0.4444444444444444
+Common Tokens: set()
+Loc Tags Present: False
+
+Highest matching block for 2022-11-30_13_49_17.86_3.txt:
+0x91C38
+Matching Ratio: 0.8783783783783784
+Common Tokens: {'loc_91C38:', 'cmp', 'mov', 'jnz'}
+Loc Tags Present: True
+
+Highest matching block for 2022-11-30_13_49_16.627_0.txt:
+0x91C90
+Matching Ratio: 0.6989247311827957
+Common Tokens: {'loc_91C90:'}
+Loc Tags Present: True
+
+Highest matching block for 2022-11-30_13_48_20.047_1.txt:
+0x91FE2
+Matching Ratio: 0.547945205479452
+Common Tokens: {'cs:stderr_ptr', 'loc_91FE2:', 'mov', '_fwrite'}
+Loc Tags Present: True
+
+Highest matching block for 2022-11-30_13_43_55.916_0.txt:
+0x4B10
+Matching Ratio: 0.20396600566572237
+Common Tokens: {'mov', 'rdi,', 'call'}
+Loc Tags Present: False
+
+Highest matching block for 2022-11-30_15_36_42.939_1.txt:
+0xB0BF
+Matching Ratio: 0.4077669902912621
+Common Tokens: {'add', 'jmp'}
+Loc Tags Present: False
+
+Highest matching block for 2022-11-30_15_34_13.94_2.txt:
+0xB0A0
+Matching Ratio: 0.4085106382978723
+Common Tokens: {'movzx'}
+Loc Tags Present: False
+
+Highest matching block for 2022-11-30_14_37_14.667_2.txt:
+0xB0A0
+Matching Ratio: 0.3983050847457627
+Common Tokens: set()
+Loc Tags Present: False
+
+Highest matching block for 2022-11-30_13_49_16.627_1.txt:
+0x91BE8
+Matching Ratio: 0.35398230088495575
+Common Tokens: set()
+Loc Tags Present: False
+
+Highest matching block for 2022-11-30_15_36_42.939_0.txt:
+0xB321
+Matching Ratio: 0.4371584699453552
+Common Tokens: {'mov'}
+Loc Tags Present: False
+
+Highest matching block for 2022-11-30_13_49_17.86_5.txt:
+0x91970
+Matching Ratio: 0.3295711060948081
+Common Tokens: {'rbp', 'rbx', 'r12', 'loc_91C38', 'r13'}
+Loc Tags Present: True
+
+Highest matching block for 2022-11-30_14_38_10.434_1.txt:
+0x1BD50
+Matching Ratio: 0.0
+Common Tokens: set()
+Loc Tags Present: False
+
+Highest matching block for 2022-11-30_15_34_13.94_1.txt:
+0xB0BF
+Matching Ratio: 0.4077669902912621
+Common Tokens: {'add', 'jmp'}
+Loc Tags Present: False
+
+Highest matching block for 2022-11-30_13_44_23.807_0.txt:
+0x4C00
+Matching Ratio: 0.21926910299003322
+Common Tokens: {'rax'}
+Loc Tags Present: False
+
+Highest matching block for 2022-11-30_14_19_21.348_2.txt:
+0xB5F26
+Matching Ratio: 0.4015151515151515
+Common Tokens: set()
+Loc Tags Present: False
+
+Highest matching block for 2022-11-30_13_49_17.86_2.txt:
+0x919AF
+Matching Ratio: 0.6666666666666666
+Common Tokens: {'loc_91BE8'}
+Loc Tags Present: True
+
+Highest matching block for 2022-11-30_14_38_31.86_3.txt:
+0x2970F
+Matching Ratio: 0.6037735849056604
+Common Tokens: set()
+Loc Tags Present: False
+
+Highest matching block for 2022-11-30_15_36_56.335_2.txt:
+0xB0A0
+Matching Ratio: 0.4085106382978723
+Common Tokens: {'movzx'}
+Loc Tags Present: False
+
+Highest matching block for 2022-11-30_13_46_20.564_0.txt:
+0xB5BA6
+Matching Ratio: 0.8048780487804879
+Common Tokens: {'loc_B5C71', 'loc_B5BA6:'}
+Loc Tags Present: True
+
+Highest matching block for 2022-11-30_13_49_17.86_0.txt:
+0x91C90
+Matching Ratio: 0.6989247311827957
+Common Tokens: {'loc_91C90:'}
+Loc Tags Present: True
+
+Highest matching block for 2022-11-30_14_25_11.823_5.txt:
+0x95CD0
+Matching Ratio: 0.7591240875912408
+Common Tokens: {'test', 'jz'}
+Loc Tags Present: False
+
+Highest matching block for 2022-11-30_14_36_18.034_1.txt:
+0x95EB7
+Matching Ratio: 0.45901639344262296
+Common Tokens: {'mov'}
+Loc Tags Present: False
+
+Highest matching block for 2022-11-30_14_36_18.034_3.txt:
+0x95D77
+Matching Ratio: 0.45
+Common Tokens: {'jz'}
+Loc Tags Present: False
+
+Highest matching block for 2022-11-30_13_44_42.858_1.txt:
+0x2A163
+Matching Ratio: 0.673469387755102
+Common Tokens: set()
+Loc Tags Present: False
+
+Highest matching block for 2022-11-30_13_48_20.047_3.txt:
+0x91C38
+Matching Ratio: 0.87248322147651
+Common Tokens: {'loc_91C38:', 'cmp', 'mov', 'jnz'}
+Loc Tags Present: True
+
+Highest matching block for 2022-11-30_14_25_11.823_1.txt:
+0x95E9F
+Matching Ratio: 0.6033519553072626
+Common Tokens: {'[rax]', '[rax+rdx*8+8]', 'rax,', 'edx,', 'mov', 'sub', '[rax+r15*8+8]', 'rbx,', '1'}
+Loc Tags Present: False
+
+Highest matching block for 2022-11-30_14_38_10.434_2.txt:
+0x1C784
+Matching Ratio: 0.41025641025641024
+Common Tokens: set()
+Loc Tags Present: False
+
+Highest matching block for 2022-11-30_14_25_11.823_4.txt:
+0x95CF1
+Matching Ratio: 0.6060606060606061
+Common Tokens: {'[rax]', '[rax+rcx*8+8]', 'rdx', '[rbx+8]', '1'}
+Loc Tags Present: False
+
+

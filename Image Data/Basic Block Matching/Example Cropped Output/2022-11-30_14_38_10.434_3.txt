@@ -1,0 +1,7 @@
+eax,wordptrcs:subkey_8+2
+eax,cs:subkey_7
+es:dword_5555556457CC,ODh
+
+al,al
+1oc_555555570229
+

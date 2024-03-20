@@ -1,0 +1,14 @@
+mMOvofGRK,CS.SUGSLLpe
+mov rdx,r1i2
+
+lea rsi,aErrorLicenseKe;"Error:licensekey%sisofwrongforma"...
+mov rdi,_[rax] ;stream
+
+xor eax,eax
+
+call _fprintf
+
+edi,OFFFFFFFFh;status
+
+exit
+

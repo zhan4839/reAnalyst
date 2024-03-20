@@ -1,0 +1,45 @@
+_strtoul
+
+rdi,[rsp+5Dh];
+esi,esi :
+edx,_10h ;
+cs:subkey_5,eax
+_strtoul
+
+rdi,_[rsp+66h];
+esi,esi ;
+edx,_10h ;
+cs:subkey_6,eax
+_strtoul
+
+esi,esi 5
+edx,10h ;
+rdi,rbp :
+cs:subkey_7,eax
+_strtoul
+
+r9d,_cs:subkey_5
+
+r8d,_cs:subkey_4
+rdi,aProvidedLicens;"providedlicensekey=%4x-t4x-t4x-%t4x-"...
+ecx,cs:subkey_3
+
+edx,cs:subkey_2
+
+rsi
+
+cs:subkey_8,eax
+esi,cs: subkey_1
+rax
+eax,cs:subkey_7
+rax
+eax,cs:subkey_6
+rax
+
+eax,eax
+_printf
+
+rsp,20h
+cs:byte_F29F0,0
+loc_5263
+

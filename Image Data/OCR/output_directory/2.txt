@@ -1,0 +1,65 @@
+MmPOF-|:23- a Hu
+
+IDA-veriT_part1.i64(veriT_part1) Jhome/kali/Desktop/Obfuscation/assignment2/part1/veriT_part1.i64
+FileEditJumpSearchViewDebuggerOptionsWindows_Help
+
+Sa-9 *m7S&%A-~yAOQhoek&F-~FaX-=PDDLocallinuxdebugger~|%lhMRK
+
+il | re
+
+Libraryfunction oi Regularfunction || Instruction Data | | Unexplored Externalsymbol || Luminafunction
+
+[#]Functions Oo & IDAView-A x|fl Names x|fs] Strings x[6)HexView-1 x|{Al Structures x|&) Enums a Imports x|B Exports
+
+= a rdi,ri3
+netion name qwordptr[r12+20h]
+sub_5555555E1340 eax,eax
+
+sub_5555555E1540 shortloc_5555555E9CDO
+sub_5555555E1590
+sub_5555555E1630
+sub_5555555E1750
+sub_5555555E17D0 eee
+sub_5555555E1DDO rbx,rbx
+sub_5555555E1F20 loc_5555555E9E98
+sub_5555555E2790
+
+sub_5555555E2FCO res
+
+sub_5555555E3180 rax,_es:qword_555555645F28
+
+rdx,[rbx+8] loc_5555555E9E98:
+sub_5555555E3250 ecx,[rax] Mov rax,cCS:qword_555555645F28
+sub_5555555E33F0 ecx,1
+
+rex,[rax+rcx*8+8]
+sub_5555555E3510 Tbx,[cexteas*813]
+sub_5555555E36A0 rdx,_rdx
+
+sub_5555555E4270 loc_5555555E9E9F
+
+aawkCeeeeerraann
+
+Line646of975
+eax,[rdx+8]
+#&Graphoverview eax,_eax loc_5555555E9E9F:
+loc_5555555E9EAE Mov edx,[rax]
+sub edx,1
+mov rax,[rax+rdx*8+8]
+Mov rbx,[rax+r15*8+8]
+
+v
+100.00%(209,892)_(1013,339)00095EB700005555555E9EB7:_sub_5555555E9C50+267(SynchronizedwithHexView-1)
+
+(=)_Output
+
+Debugger:processhasexited(exitcode255)
+Caching'Names'...ok
+Caching'Names'...ok
+Caching'Names'...ok
+Caching'Names'...ok
+Caching'Names'...ok
+
+IDC
+AU:idle Down Disk:58GB
+

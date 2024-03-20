@@ -1,0 +1,9 @@
+loc_5555555E9EC1:
+edi,_10h
+
+_malloc
+
+rsi,rax
+rax,rax
+loc_5555555E9F78
+

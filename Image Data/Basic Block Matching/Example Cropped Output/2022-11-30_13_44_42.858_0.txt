@@ -1,0 +1,12 @@
+eax,cs:subkey_1
+ecx,cs:subkey_2
+
+es:dword_F212C,OAh
+ax,ax
+
+cx,Cx
+
+eax,ecx
+eax,8FABO000h
+loc_2A173
+

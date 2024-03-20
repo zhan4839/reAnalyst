@@ -1,0 +1,10 @@
+cs:qword_555555645F28
+[rbx+8]
+[rax]
+
+1
+[rax+rcx*8+8]
+[rex+r15*8+8]
+rdx
+loc_5555555E9E9F
+

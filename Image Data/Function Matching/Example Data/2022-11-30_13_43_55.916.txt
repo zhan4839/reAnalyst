@@ -1,0 +1,90 @@
+3 4 | H O 1
+1
+
+File Edit Jump Search View Debugger Options Windows Help
+£ R
+4^®, c + [A
+IDA - veriT_part1.i64 (veriT_part1) /home/kali/Desktop/Obfuscation/assignment2/part1/veriT_part1.i64
+3 Q si d ^ *s* ” ^ ^ X >0)0 Local Linux debugger - fe ^ i f* d
+Library function ■ Regular function | Instruction Data Unexplored External symbol Lumina function
+171 Functions
+□ © ®
+IDA View-A
+X
+Names
+Hex View-1
+Structures
+Imports
+X
+X to]
+X tn
+X S3
+
+
+Exports
+X
+Function name
+_strtoul
+7 strtoul
+mov
+mov call lea
+mov mov call lea
+K strtoul
+mov mov call lea
+Line 1 of 2
+j^ Graph overview
+□ © ®
+cmp jnz
+rop, rax
+short loc 4F36
+Enums
+X
+mov	rax,	cs:scaerr_pcr
+mov	rdx,	rl2
+lea	rsi,	aErrorLicenseKe ; "I
+mov	rdi,	[rax]	; stream
+xor	eax,	eax
+call	_fprintf	
+or call	edi, exit	OFFFFFFFFh ; status
+Error: license key %s is of wrong forma"...
+mov mov call lea
+mov mov call lea
+rdi, [rsp+20h] esi, esi edx, lOh _strtoul
+rdi, [rsp+39h] esi, esi edx, lOh |cs: subkey_l, eax _strtoul
+rdi, [rsp+42h]
+esi, esi edx, lOh cs:subkey_2, eax _strtoul
+rdi, [rsp+4Bh] esi, esi edx, lOh cs:subkey_3, eax _strtoul
+rdi, [rsp+54h] esi, esi edx, lOh
+cs:subkey_4, eax _strtoul
+rdi, [rsp+5Dh]
+; nptr
+; endptr
+; base
+; nptr
+; endptr
+: base
+; nptr
+; endptr
+: base
+; nptr
+; endptr
+; base
+; nptr
+; endptr
+; base
+; nptr
+• ^nHrM-
+100.00% (2823,8759) (259,179) 00004F6A 0000000000004F6A: main+8CA
+(Synchronized with Hex View-1)
+S Output
+Database for file 'veriT_partl' has been loaded.
+Hex-Rays Decompiler plugin has been loaded (v8.0.0.220829)
+License: 00-0000-0000-00	(0 user)
+The decompilation hotkey is F5.
+Please check the Edit/Plugins menu for more information.
+□ © ®
+Caching 'Functions'
+ok
+IDC
+AU: idle Down
+Disk: 58GB

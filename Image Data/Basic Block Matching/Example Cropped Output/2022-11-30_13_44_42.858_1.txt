@@ -1,0 +1,5 @@
+r10d,_cs:dword_F212C
+
+r10d,_r10d
+check_2
+
