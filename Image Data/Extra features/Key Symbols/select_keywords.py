@@ -73,7 +73,7 @@ def group_consecutive_timestamps(grouped_files, gap_seconds=30):
     return final_groups
 
 # Example usage
-folder_path = '80377695820818'  # Replace with your folder path
+folder_path = 'Example Screenshots'  # Replace with your folder path
 keywords_file_path = 'keywords.txt'  # Replace with the path to your keywords file
 
 keywords_to_groups = read_keywords_and_groups(keywords_file_path)

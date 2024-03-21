@@ -1,0 +1,116 @@
+CodeBrowser: licenselab:/veriT_part1
+File Edit Analysis Graph Navigation Search Select Tools Window Help
+■ | ■ ■ B ^ EH |j 2 3 4 | H # ^ B
+iMHiMnlilldlllllWl D * * " 14:31 I A O
+□ £□•.=>- ©&&©[§) 0 I ® ® 0. IF V IB • : ^ »« yg^l S3&Cf AOH#B B^, I «
+Program Trees	|oj & ^ X	
+▼ &f veriT_partl (3 -bss [3 .data [3 .got.plt 0 -got □ dynamic 0 data.rel.ro 0 fini array 0 nit array 0 eh frame 0 eh_frame_hdr	▲ J t ▼
+i3 Listing: veriT_partl
+Program Tree x
+X
+Decompile: FUN_00190df0 - (veriT partl)
+-ff Symbol Tree ► Sk Imports ►^ Exports
+►	© Classes
+►	S(} Namespaces
+Filter:
+□L Data Type Manager
+▼ X
+►	^ BuiltlnTypes
+►	£©veriT_partl
+►	i0 generic_clib_64
+SW
+00190df9 41 89 d5 00190dfc 41 54	MOV PUSH	R13D.EDX R12
+00190dfe 55	PUSH	RBP
+00190dff 48 89 fd	MOV	RBP.RDI
+00190602 53	PUSH	RBX
+00190603 48 89 cb	MOV	RBX.RCX
+00190606 48 83 ec 38	SUB	RSP,0x38
+0019060a 8b 07	MOV	EAX.dword ptr [RDI]
+0019060c 48 89 74	MOV	qword ptr [RSP + local_58],RSI
+24 10		
+00190611 44 89 44	MOV	dword ptr [RSP + local_5c],R8D
+24 0c		
+00190616 83 f8 01	CMP	EAX,0x1
+00190619 0f 84 31	JZ	LAB_00191050
+02 00 00		
+00190elf 44 8b Id	MOV	R11D,dword ptr [DAT_001f4718]
+f2 38 06 00		
+30190626 45 85 db	TEST	R11D,R11D
+00190629 0f 85 f3	JNZ	LAB_00191522
+06 00 00		
+00190e2f 83 f8 55	CMP	EAX,0x55
+00190632 0f 86 10	JBE	LAB_00190f48
+01 00 00		
+00190638 89 dl	MOV	ECX.EDX
+0019063a 4c 89 ca	MOV	RDX.R9
+0019063d 83 f8 56	CMP	EAX,0x56
+00190640 0f 84 7a	JZ	LAB_001912c0
+04 00 00		
+00190646 31 C0	XOR	EAX.EAX
+00190648 48 8d 35	LEA	RSI,[s_(anchor_:step_%st%d_001d08a2]
+53 fa 03 00		
+00190e4f 48 89 df	MOV	RDI,RBX
+00190652 68 69 37	CALL	<EXTERNAL>::fprintf
+f7 ff		
+%st%d
+cha...
+Filter:
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+62
+if (puVarl2 != (uint *)0x0) {
+uVarl3 = *puVarl2;
+while (uVarl3 != 0) {
+if (DAT_001f43f8 == uVarl3) {
+fprintf(param_4,"(%s %s ","assume",*(undefined8 *)(puVarl2 + 1)); goto LAB_001910c7;
+puVarl2 = (uint *)((long)puVarl2 +
+(ulong)*(uint *)(DAT_001f4148 + 0x10 + (ulong)uVar uVarl3 = *puVarl2;
+fprintf(param_4,"(%s %sh%d ","assume",param_6,uVar7);
+LAB_001910c7:
+FUN_0018b950(param_4,*(undefined4 *)(*(long *)(param_l + 2) + 8),param_5
+else {
+if (DAT|_001f4718 != 0) {
+fwrite("Error: invalid license key provided\n",1,0x24,_stderr);
+/* WARNING: Subroutine does not return */ exit(-l);
+if (uVarl3 < 0x56) {
+FUN_00190a50(param_4,param_l,param_2,param_3,param_6,param_5,1);
+else if (uVarl3 == 0x56) {
+fprintf(param_4,"(anchor :step %st%d)\n",param_6,(ulong)param_3);
+____ptr = (undefined8 *)malloc(0x18);
+if (____ptr == (undefined8 *)0x0) {
+/* WARNING: Subroutine does not return */
+my_error("malloc error on line %d in file src/proof/proof-print.c\n"
+3/ Decompile: FUN 00190df0 x J pat Defined Strings x
+Console - Scripting
+00190e26
+FUN_00190df0
+TEST RI ID.RI ID

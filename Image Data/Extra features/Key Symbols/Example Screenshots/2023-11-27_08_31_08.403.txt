@@ -1,0 +1,126 @@
+CodeBrowser: licenselab:/veriT_part1
+File Edit Analysis Graph Navigation Search Select Tools Window Help
+■ | ■ ■ B ^ EH |j 2 3 4 | H # ^ B
+InllWlWiiliLilJlIbJ a ^ * 8 14:31 I ® &
+□ £□•.=>- ©&&©[§) 0 I ® ® 0. IF V IB • : ^ «« yg^l S3&Cf AOH#B B^, I «
+Program Trees	|oj & ^ X	
+▼ &f veriT_partl [3 -bss [3 .data [3 .got.plt 0 -got □ dynamic 0 data.rel.ro 0 fini array 0 nit array 0 eh frame 0 eh_frame_hdr	▲ b ▼
+Program Tree x
+Its Listing: veriT_partl
+00
+00
+00191506 e8 8d 30		CALL	<EXTERNAL>::realloc
+	f7 ff		
+00191513	4c 8b 54	MOV	R10,qword ptr [RSP
+	24 28		
+00191518	49 89 c7	MOV	R15.RAX
+0019151b	8b 00	MOV	EAX.dword ptr [RAX]
+0019151d	e9 lb ff	JMP	LAB_0019143d
+ff
+ff
++ local_40]
+
+X
+/Decompile: FUN 00190df0 - (veriT partl)
+void * realloc (void * ptr, siz..
+XREF[1]:	00190e29(j)
+f62a8
+^ Symbol Tree
+► Sk Imports
+►^ Exports ► Inffil Functions
+► © Classes
+► S(} Namespaces
+LAB_00191522
+00191522 48 8b 05			00	MOV	RAX.qword ptr [->stderr]
+	9f la	06			
+00191529	ba 24 00 00	00		MOV	EDX,0x24
+00191526	be 01 00 00	00		MOV	ESI,0x1
+00191533	48 8d 86 b5	3d 03	00	LEA	RDI, [s_Error:_invalid_license_key_provi_001cca...
+0019153a	48 8b	08		MOV	RCX.qword ptr [RAX]=>stderr
+0019153d	e8 4e f7 ff	30		CALL	<EXTERNAL>::fwrite
+00191542	83 cf	ff		OR	EDI,0xffffffff
+00191545	68 f6 f7 ff	2b		CALL	<EXTERNAL>::exit
+void exit(int __status)
+-- Flow Override: CALL_RETURN (CALL_TERMINATOR)
+cense
+= ??
+size_t fwrite(void * ___ptr, size...
+Filter:
+□L Data Type Manager
+▼ X
+► ^ BuiltlnTypes
+► £OveriT_partl
+► i0 generic_clib_64
+	LAB_0019154a
+0019154a	be 2a 01	MOV
+	00 00
+0019154f	48 8d 3d	LEA
+	92 b5 03 00
+00191556	31 C0	XOR
+00191558	e8 a3 19	CALL
+ESI,0xl2a
+XREF[1]:	001912el(j)
+RDI, [s_malloc_error_on_line_%d_in_file_s_001cc... "malloc error on line %d in fi...
+EAX.EAX my error
+undefined my_error(undefined
+ar..
+Filter:
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+62
+if (puVarl2 != (uint *)0x0) {
+uVarl3 = *puVarl2;
+while (uVarl3 != 0) {
+if (DAT_001f43f8 == uVarl3) {
+fprintf(param_4,"(%s %s ","assume",*(undefined8 *)(puVarl2 + 1)); goto LAB_001910c7;
+puVarl2 = (uint *)((long)puVarl2 +
+(ulong)*(uint *)(DAT_001f4148 + 0x10 + (ulong)uVar uVarl3 = *puVarl2;
+fprintf(param_4,"(%s %sh%d ","assume",param_6,uVar7);
+LAB_001910c7:
+FUN_0018b950(param_4,*(undefined4 *)(*(long *)(param_l + 2) + 8),param_5
+else {
+if (DAT_001f4718 != 0) {
+fwrite("Error: invalid license key provided\n",1,0x24,_stderr);
+/* WARNING: Subroutine does not return */ exit(-l);
+if (uVarl3 < 0x56) {
+FUN_00190a50(param_4,param_l,param_2,param_3,param_6,param_5, 1);
+else if (uVarl3 == 0x56) {
+fprintf(param_4,"(anchor :step %st%d)\n",param_6,(ulong)param_3);
+____ptr = (undefined8 *)malloc(0x18);
+if (____ptr == (undefined8 *)0x0) {
+/* WARNING: Subroutine does not return */
+my_error("malloc error on line %d in file src/proof/proof-print.c\n"
+3/ Decompile: FUN 00190df0 x J pat Defined Strings x
+Console - Scripting
+00191533
+FUN_00190df0
+LEA RDI,[OxlccacO]

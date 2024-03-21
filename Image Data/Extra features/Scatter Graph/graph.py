@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import datetime
 
 # Load data from file
-with open("screenshots_outputd.json", "r") as f:
+with open("example_function_matching_output.json", "r") as f:
     data = json.load(f)["data"]
 
 # Flags to control functionality
@@ -23,8 +23,8 @@ def modify_y_value(y):
     if y == "":
         return "No function"  
 
-    if y == "sub_E60":
-        return "bridge"
+    #if y == "sub_E60":
+    #    return "bridge"
     # Add more conditions here if needed
     return y
 

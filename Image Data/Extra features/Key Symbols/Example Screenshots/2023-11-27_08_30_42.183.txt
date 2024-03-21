@@ -1,0 +1,59 @@
+CodeBrowser: licenselab:/veriT_part1
+File Edit Analysis Graph Navigation Search Select Tools Window Help
+1	2
+14:30
+Program Trees
+▼ &f veriT_partl @ .bss @ .data B .got.plt 0 .got 3 .dynamic 0 .data.rel.ro 0 .fini array 0 .init array 0 ,eh_frame □ .eh frame hdr
+Program Tree x	—
+^, Symbol Tree	^ ft x
+► Sk Imports
+►& Exports
+► lc© Functions
+► © Classes
+► S(} Namespaces
+Filter:
+□L Data Type Manager
+▼ X
+► £ BuiltlnTypes
+► £©veriT_partl
+► i0 generic_clib_64
+£ Listing:	veriT_partl				SI -	A EB-		X		7 Decompile: FUN_00190df0 - (veriT_partl)	$ 1	1 Ci a - X
+		00 00					▲			37	}	▲
+		00191506 e8 8d 30	CALL	<EXTERNAL>::realloc	void * realloc(voic	* _pti	, siz...	*	■■		38	puVarl2 = (uint *)((long)puVarl2 +	
+		f7 ff								39	(ulong)*(uint *)(DAT 001f4148 + 0x10 + (ulong)uVai	
+		00191513 4c 8b 54	MOV	R10,qword ptr [RSP + local_40]							40	uVarl3 = *puVarl2;	
+		24 28								41	}	
+		00191518 49 89 c7	MOV	R15.RAX							42	1	
+		0019151b 8b 00	MOV	EAX.dword ptr [RAX]							43	fprintf(param 4,"(%s %sh%d ","assume".param 6,uVar7);	]	
+		0019151d e9 lb ff	JMP	LAB_0019143d							44 LAB_001910c7:	
+		ff ff								45	FUN_0018b950(param_4,*(undefined4 *)(*(long *)(param_l + 2) + 8),param_5	
+										46	}	
+			LAB_00191522	XREF[1]:	00190e29(j)						47 else {	
+		00191522 48 8b 05	MOV	RAX.qword ptr [->stderr]	= 001f62a8						48	if (DAT_001f4718 != 0) {	
+		9f la 06 00								49	fwrite("Error: invalid license key providedXn	",1,0x24, stderr);
+		00191529 ba 24 00	MOV	EDX,0x24							50	/* WARNING: Subroutine does not	return */
+		00 00								51	exit(-l);	
+		0019152e be 01 00	MOV	ESI,0x1							52	}	
+		00 00								53	if (uVarl3 < 0x56) {	
+—►		00191533 48 8d 3d	LEA	RDI, [s_Error:_invalid_license_key_provi_001cca...		icense k	ey pr...				54	FUN_00190a50(param_4,param_l,param_2,param_3	param_6,param_5,1);
+		86 b5 03 00								55	} 56	else if (uVarl3 == 0x56) {	
+		0019153a 48 8b 08	MOV	RCX.qword ptr [RAX]=>stderr	= ??							
+		0019153d e8 4e 30	CALL	<EXTERNAL>::fwrite	size_t fwrite(void		ptr,	size...				57	fprintf(param_4,"(anchor :step %st%d)\n",param_6,(ulong)param_3);	
+		f7 ff						E 1		58	ptr = (undefined8 *)malloc(0xl8);	
+		00191542 83 cf ff	OR	EDI,0xffffffff							59	if ( ptr == (undefined8 *)0x0) {	
+		00191545 e8 f6 2b	CALL	<EXTERNAL>::exit	void exit(int 	status)						60	/* WARNING: Subroutine does not	return */
+		f7 ff								61	my error("malloc error on line %d in file src/proof/proof-print.c\n"	
+			-- Flow Override: CALL_RETURN (CALL_TERMINATOR)							62	}	
+								a		63	* ptr = 0x400000000;	
+			LAB_0019154a	XREF[1]:	001912el(j)						64	sVar6 = strlen(param 6);	
+		0019154a be 2a 01	MOV	ESI,0xl2a							65	iVarl0 = 1;	
+		00 00								66	iVarll = 1;	
+		0019154f 48 8d 3d	LEA	RDI,[s_malloc_error_on_line_%d_	in_file_s_001cc...	line %d	in fi...				67	uVar9 = uVar7;	
+		92 b5 03 00	XOR	EAX.EAX CALL	my error							68	if (9 < param_3) {	
+		00191556 31 C0 00191558 e8 a3 19		undefined my_error(	iindpfinpd nar...		L ▼				
+	◄ ^						1 ►				^ Decompile: FUN_00190df0 x J oat Defined Strings x	
+Console - Scripting
+Filter:
+00191533
+FUN 00190df0
+LEA RDI,[OxlccacO]

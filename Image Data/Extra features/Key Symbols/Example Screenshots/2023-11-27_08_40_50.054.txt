@@ -1,0 +1,111 @@
+CodeBrowser: licenselab:/veriT_part1
+File Edit Analysis Graph Navigation Search Select Tools Window Help
+■ | ■ ■ B ^ □ * | 1 2 3 4 | B # ^ Q
+JlMiiii^ D ^ * -14:401 ® o
+Program Trees				O^ft			X
+▼ &f veriT_partl [3 -bss [3 .data [3 .got.plt 0 .got □ dynamic 0 data.rel.ro 0 fini array 0 nit array 0 eh frame 0 eh_frame_hdr							▲ ▼
+	Program Tree x						
+^, Symbol Tree					ft		X
+►£k mports ► IO Exports ▼ E® Functions ► f entry' ► Sr FUN_001 ► SR hash_ ▼ Sr m							
+	▼	f: main					
+PR argc							▼
+Filter:		—				a	
+of) Data Type Manager					▼		X
+*'*’ 1^’			X^ B				
+T 4^. Data Types ► ^ BuiltlnTypes ► C©veriT_partl ► £ generic_clib_64							
+Filter:		—				a	
+fc Listing: veriT_partl
+main:00105034(R),	4
+FUN_0018ad40:0018blleF
+FUN_0018dl90:0018dlda
+FUN_0018dl90:0018d25b
+001f4710
+undefined4 ??
+DAT_001f4714
+XREF[5]:
+FUN_0018ad40:0018adf3
+FUN_0018dl90:0018dla8
+FUN_0018dl90:0018d29d
+FUN_0019ff20:001a0000
+FUN_0019ff20:001a0010
+X
+/Decompile: FUN 001bf990 - (veriT partl)
+Console - Scripting
+001f4714
+undefined4 ??
+ZH 00190616 83	VL f8 01	FX A T + ^ *^ ^ i CMP	EAX,0x1	vnrr
+00190619 0f	84 31	JZ	LAB_00191050	
+02	00 00			
+^0190elf 44	8b Id	MOV	RllD.dword ptr	[DAT_final_check]
+f2	38 06	00		
+00190626 45	85 db	TEST	R11D.R11D	
+00190629 0f	85 f3	JNZ	LAB_00191522	
+06	00 00			
+00190e2f 83	f8 55	CMP	EAX,0x55	
+00190632 0f	86 10	JBE	LAB_00190f48	
+01	00 00			
+00190638 89	dl	MOV	ECX.EDX	
+0019063a 4c	89 ca	MOV	RDX.R9	
+0019063d 83	f8 56	CMP	EAX,0x56	
+00190640 0f	84 7a	JZ	LAB_001912c0	
+04	00 00			
+00190646 31	C0	XOR	EAX.EAX	
+00190648 48	8d 35	LEA	RSI,[s_(anchor_	,:step_%st%d_001d08a2]
+53	fa 03	00		
+00190e4f 48	89 df	MOV	RDI,RBX	
+anchor :step 3
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+uint uVarl6; long lVarl7; uint uVarl8; int *piVarl9 long lVar20; ulong uVar9;
+if (*(int *)(DAT_001f38e0 + (param_2 & 0xffffffff) * 4) == DAT_001f38d0) { uVar4 = FUN_00199160(DAT_001f3850);
+else {
+uVar4 = FUN_00199160(DAT_001f3740);
+uVarl2 = (ulong)uVar4;
+piVarl9 = (int *)(DAT_001f3900 + uVarl2 * 4);
+if (*piVarl9 != -1) {
+*piVarl9 = *piVarl9 + 1;
+puVar7 = (undefined4 *)FUN_0018c960();
+if (*piVarl9 != -1) {
+*piVarl9 = *piVarl9 + 1;
+FUN_0018bf20(puVar7,uVar4);
+*puVar7 = param_l;
+uVar5 = FUN_0018d2d0(puVar7);
+if ((DAT_final_setter & 4) != 0) { DAT_final_check = 1;
+piVarl9 = (int *)(uVarl2 * 4 + DAT_001f3900);
+iVarl5 = *piVarl9;
+if (iVarl5 == 0) {
+/* WARNING: Subroutine does not return */ my_error("DAG_gc_dec: under limit\n");
+3/ Decompile: FUN 001bf990 x J pat Defined Strings x
+00190elf
+FUN_00190df0
+MOV RllD.dword ptr [OxOOlf...
