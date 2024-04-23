@@ -1,0 +1,61 @@
+﻿1 2
+ll.dllJ..LtJ.
+□ 13:40 | A
+IDA - veriT_part1.i64 (veriT_part1) /media/sf_sharedvm/obfuscation2/part1/veriT_part1.i64
+X
+File Edit Jump Search View Debugger Options Windows Help
+> □ □ Local Linux debugger
+Data Unexplored
+Library function
+Regular function
+Instruction
+External symbol
+Lumina function
+0 Functions		□ © ®
+Function name		
+0 sub_176F0		
+	sub_178F0	
+	sub_17F10	
+	sub_18030	
+	sub_183C0	
+	sub_18B80	
+	sub_19050	
+0 sub_191D0		
+0 sub_19410		
+0 sub_19880		
+	sub_19D00	
+	sub_1A8F0	
+	sub_1A900	
+	sub_1AD70	
+	sub_1B900	—
+<		
+Line 975 of 975		
+& Graph overview		□ © ®
+		
+® IDAView-A X
+S Output
+Names X |o] Hex View-1 X
+i3 Structures X
+Enums
+Imports
+Exports
+mov test
+jz
+rlld, cs:dword_F17CC rlld, rlld check_ll
+check_ll:
+movzx xor mov test jz
+ecx, word ptr cs:subkey_8+2
+ecx, cs:subkey_7
+cs:dword_F17CC, ODh cl, cl loc_AC96
+add jmP
+cs:dword_F17C0, lOOOOh loc_AC96
+0000B0A0 000000000000B0A0: sub_AB40:check_ll (Synchronized with Hex View-1)
+□ © ®
+Database for file 'veriT_partl' has been loaded.
+Hex-Rays Decompiler plugin has been loaded (v8.0.0.220829)
+License: 00-0000-0000-00	(0 user)
+The decompilation hotkey is F5.
+Please check the Edit/Plugins menu for more information.
+IDC
+AU: idle Down
+Disk: 40GB

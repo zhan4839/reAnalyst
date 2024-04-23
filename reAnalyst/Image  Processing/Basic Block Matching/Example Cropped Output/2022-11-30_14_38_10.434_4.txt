@@ -1,0 +1,5 @@
+mov ecx,cs:dword_5555556457CC
+
+test ecx,ecx
+jnz shortloc_5555555709FC
+

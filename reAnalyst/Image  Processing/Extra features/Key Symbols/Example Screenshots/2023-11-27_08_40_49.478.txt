@@ -1,0 +1,114 @@
+1	2
+CodeBrowser: licenselab:/veriT_part1
+File Edit Analysis Graph Navigation Search Select Tools Window Help
+□ ^) *
+14:40
+Program Trees						x	
+▼ &f veriT_partl [3 -bss [3 .data [3 .got.plt 0 .got □ dynamic 0 data.rel.ro 0 fini array 0 nit array 0 eh frame 0 eh_frame_hdr							▲ ▼
+	Program Tree x						
+^, Symbol Tree					ft		X
+►£k mports ► IO Exports ▼ E© Functions ► f entry' ► Sr FUN_001 ► SR hash_ ▼ S® m							
+	▼	f: main					
+P^ argc							▼
+Filter:		—				a	
+of) Data Type Manager					▼		X
+			X^ B				
+T 4^. Data Types ► ^ BuiltlnTypes ► C©veriT_partl ► £ generic_clib_64							
+Filter:		—				a	
+123 Listing: veriT partl
+
+X
+Decompile: FUN_001bf990 - (veriT_partl)
+001f4710
+001f4714
+301f4718
+001f471c
+undefined4
+DAT_001f4714
+undefined4
+DAT_final_check
+undefined4
+DAT_001f471c
+7?
+DAT_001f471d
+7?
+7?
+77
+77
+XREF[5]:
+XREF[4]:
+XREF[2]:
+XREF[11] :
+Console - Scripting
+main:00105034(R),	4
+FUN_0018ad40:0018blleF
+FUN_0018dl90:0018dlda
+FUN_0018dl90:0018d25b
+FUN_0018ad40:0018adf3
+FUN_0018dl90:0018dla8
+FUN_0018dl90:0018d29d
+FUN_0019ff20:001a0000
+FUN_0019ff20:001a0010
+FUN_0018a620:0018a6ed
+FUN_00190df0:00190elf
+FUN_00194b90:00194def
+FUN_001bf990:001bfa29
+FUN_00182680:00182895
+FUN_001ad020:001aedl7
+FUN_00181800:00181829 FUN_00182680:0018289c FUN_00182680:00183340 FUN_00182680:00183462 FUN_00182680:0018357e FUN_00182680:00183700 FUN_001ad020:001aed65
+FUN_001b86a0:001b86ec FUN_001b86a0:001b886c FUN_001b86a0:001b8987
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+uint uVarl6; long lVarl7; uint uVarl8; int *piVarl9 long lVar20; ulong uVar9;
+if (*(int *)(DAT_001f38e0 + (param_2 & 0xffffffff) * 4) == DAT_001f38d0) { uVar4 = FUN_00199160(DAT_001f3850);
+else {
+uVar4 = FUN_00199160(DAT_001f3740);
+uVarl2 = (ulong)uVar4;
+piVarl9 = (int *)(DAT_001f3900 + uVarl2 * 4);
+if (*piVarl9 != -1) {
+*	piVarl9 = *piVarl9 + 1;
+puVar7 = (undefined4 *)FUN_0018c960();
+if (*piVarl9 != -1) {
+*	piVarl9 = *piVarl9 + 1;
+FUN_0018bf20(puVar7,uVar4);
+*	puVar7 = param_l;
+uVar5 = FUN_0018d2d0(puVar7);
+if ((DAT_final_setter & 4) != 0) { DAT_final_check = 1;
+piVarl9 = (int *)(uVarl2 * 4 + DAT_001f3900);
+iVarl5 = *piVarl9;
+if (iVarl5 == 0) {
+/* WARNING: Subroutine does not return */ my_error("DAG_gc_dec: under limit\n");
+FUN 001b86a0:001b8abf ▼
+Of Decompile: FUN 001bf990 x J pat Defined Strings x
+001f4718
+undefined4 (4)

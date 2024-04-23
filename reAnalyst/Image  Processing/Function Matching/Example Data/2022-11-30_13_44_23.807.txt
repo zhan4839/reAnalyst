@@ -1,0 +1,80 @@
+3 4 | 0 O 1
+□ ^ A Q 13:44 | A
+e
+1
+O
+File Edit Jump Search View Debugger Options Windows Help
+£ R
+4^®, c + [A
+IDA - veriT_part1.i64(veriT_part1) /home/kali/Desktop/Obfuscation/assignment2/part1/veriT_part1.i64
+3 Q si d ^ ‘S+ v ^ ^ X > O □ Local Linux debugger - fe ^ i f* d
+Library function ■ Regular function | Instruction Data Unexplored External symbol Lumina function
+171 Functions
+□ © ®
+IDA View-A
+X
+Names
+Structures
+Enums
+X
+Imports
+X
+x IH
+
+
+Function name
+_strtoul
+7 strtoul
+X	lol	Hex View-1
+	
+call	_strtoul
+lea	rdi, [rsp+5Dh] ; nptr
+xor	esi, esi	; endptr
+mov	edx, lOh	; base
+mov	cs:subkey_5, eax
+call	_strtoul
+lea	rdi, [rsp+66h]	; nptr
+xor	esi, esi	; endptr
+mov	edx, lOh	; base
+mov	cs:subkey_6, eax
+call	_strtoul
+xor	esi, esi	; endptr
+mov	edx, lOh	; base
+mov	rdi, rbp	; nptr
+mov	cs:subkey_7, eax
+call	_strtoul
+mov	r9d, cs:subkey_5
+mov	r8d, cs:subkey_4
+
+Exports
+X
+
+strtoul
+Line 1 of 2
+lea
+mov mov push mov mov push mov push mov push
+rdi, ecx, edx, rsi
+aProvidedLicens ; "provided license key = %4x-%4x-%4x-%4x-cs:subkey_3
+cs:subkey_2
+cs:subkey_8, eax
+j^ Graph overview
+□ © ®
+esi, rax eax, rax eax, rax eax,
+cs: si^key_l
+cs:subkey_7
+cs:subkey_6
+eax
+S Output
+call add cmp jnz
+_printf rsp, 20h cs:byte_F29F0, 0 loc 5263
+100.00% (2944,9241) (544,320) 000050250000000000005025: main+985 (Synchronized with Hex View-1)
+□ © E
+Database for file 'veriT_partl' has been loaded.
+Hex-Rays Decompiler plugin has been loaded (v8.0.0.220829)
+License: 00-0000-0000-00	(0 user)
+The decompilation hotkey is F5.
+Please check the Edit/Plugins menu for more information.
+Caching 'Functions'... ok
+I DC
+AU: idle Down
+Disk: 58GB

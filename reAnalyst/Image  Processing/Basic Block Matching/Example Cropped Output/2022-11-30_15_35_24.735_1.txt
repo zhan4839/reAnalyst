@@ -1,0 +1,5 @@
+Lala
+
+add cs:check_status_checks,100(
+
+jmp loc_55555555EC96

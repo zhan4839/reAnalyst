@@ -1,0 +1,74 @@
+mov
+call
+lea
+xor
+mov
+mov
+call
+lea
+xor
+mov
+mov
+call
+lea
+xor
+mov
+mov
+call
+lea
+xor
+
+rdi,[rsp+20h);nptr
+esi,esi ;endptr
+edx,10h ;base
+_strtoul
+rdi,[rsp+#39h);nptr
+esi,esi ;endptr
+edx,10h ;base
+cs:subkey_1,eax
+_strtoul
+rdi,[rsp+42h);nptr
+esi,esi ;endptr
+edx,10h ;base
+cs:subkey_2,eax
+_strtoul
+rdi,[rsp+4Bh);nptr
+esi,esi ;endptr
+edx,10h i] ;base
+cs:subkey_3,eax
+_strtoul
+rdi,_[rsp+OBSh+var_64];
+esi,esi ;endptr
+10h ;base
+jubkey_4,eax
+_strtoul
+rdi,_[rsp+0B8h+var_5B);
+esi,esi ;endptr
+edx,10h ;base
+cs:subkey_5,eax
+_strtoul
+rdi,_[rsp+0B8h+var_52];
+esi,esi ;endptr
+edx,10h ;base
+cs:subkey_6,eax
+_strtoul
+esi,esi ;endptr
+edx,10h ;base
+rdi,_rbp ;mptr
+cs:subkey_7,eax
+_strtoul
+r9d,_cs:subkey_5
+r8d,cs:subkey_4
+rdi,aProvidedLicens
+
+are_re:anhbau_2%
+
+"providedlicensekey=
+
+nptr
+
+nptr
+
+nptr
+
+84x-84x-84x-84x-"

@@ -1,0 +1,5 @@
+ebx,_cs:dword_555555646C70
+
+ebx,_ebx
+check_1
+

@@ -1,0 +1,57 @@
+1
+D A Q 13:44 | A G
+
+File Edit Jump Search View Debugger Options Windows Help
+& H
+%^fe W + E
+3 4	0^1
+IDA - veriT_part1.i64 (veriT_part1) /home/kali/Desktop/Obfuscation/assignment2/part1/veriT_part1.i64
+<i qS ^ ‘s^ ^ ^ M X > D O Local Linux debugger ^ ^] ^ ® ^ 8X
+Library function Regular function Instruction Data Unexplored External symbol ] Lumina function
+S Functions	□ © ®	®	IDA View-A	X	H	Names	X □	Hex View-1	X S	Structures	X		Enums	X	a	Imports	X	a	Exports	X
+						■UW	XUA, US . 4WVXU_LrUQUU | XUU_4H14U.	I										
+171 strtoul
+_strtoul
+ion name
+mov
+mov
+mov
+mov imp
+[rl3+8], ecx loc 2A14D
+rax, [rax+rl2+8] [rax], rdx
+rdx, cs:qword_F18C8
+3MB
+loc 2A14D:
+mov mov mov
+rax, cs:qword_F1868 [rax+rbp*4], ebx rlld, cs:dword_F2090 rlld, rlld short loc 2A173
+	
+mov	rlOd, cs:dword F212C
+test	rlOd, rlOd
+jz		check_2
+
+strtoul
+Line 1 of 2
+j& Graph overview
+□ © ®
+	
+check 2	
+mov	eax, cs:subkey_l
+mov	ecx, cs:subkey_2
+mov	cs:dword_F212C, OAh
+xor	ax, ax
+xor	ex, ex
+add	eax, ecx
+cmp	eax, 8FAB0000h
+jz		loc_2A173
+100.00% (-80,1071) (83,0) 0002A430 000000000002A430: sub_2A0A0:check_2 (Synchronized with Hex View-1)
+S Output
+Database for file 'veriT_partl’ has been loaded.
+Hex-Rays Decompiler plugin has been loaded (v8.0.0.220829)
+License: 00-0000-0000-00	(0 user)
+The decompilation hotkey is F5.
+Please check the Edit/Plugins menu for more information.
+Caching 'Functions'... ok
+□ © ®
+IDC
+AU: idle Down
+Disk: 58GB

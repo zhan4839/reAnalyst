@@ -1,0 +1,3 @@
+f37c4, Numbers extracted from license key store (001f37c4)
+ccac0, String when invalid license key exit is triggered (001ccac0)
+f4718, Global variable holding final status (001f4718)

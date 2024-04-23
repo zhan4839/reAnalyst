@@ -1,0 +1,5 @@
+eax,[rdx+8]
+
+eax,eax
+loc_5555555E9EAE
+

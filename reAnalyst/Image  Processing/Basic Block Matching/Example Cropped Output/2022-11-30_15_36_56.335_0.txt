@@ -1,0 +1,8 @@
+loc_55555555EC96:
+Mov esi,[rax+rbx*4]
+
+Mov edi,cs:dword_555555645864
+mov [rsp+0A8h+var_78],_rbx
+mov ri2d,_[rdx]
+ecallenhSS5S5S555REF04
+

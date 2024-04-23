@@ -1,0 +1,12 @@
+loc_91FE2:
+
+mov cs:stderr_ptr
+mov 24n;'S';n
+1 ;size
+rdi,aErrorInvalidLi;_"Error:
+rex,[rax] 78
+_fwrite
+edi,OFFFFFFFFh;status
+
+invalidlicensekeyprovided\n"
+

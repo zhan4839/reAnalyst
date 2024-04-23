@@ -1,0 +1,6 @@
+NES
+mov rax,_[rax+r12+8]
+mov [zax],rdx
+
+mov rdx,cs:qword_F18cs
+

@@ -1,0 +1,63 @@
+1
+1	2	3	4	0^1
+o
+
+File Edit Jump Search View Debugger Options Windows Help
+£ R
+IDA - veriT_part1.i64 (veriT_part1) /home/kali/Desktop/Obfuscation/assignment2/part1/veriT_part1.i64
+> ID □ Local Linux debugger ~ ® ^	® ^ Sx
+A O ^ eeS df ‘s* ^ ^ imi X
+Library function Regular function Instruction Data Unexplored External symbol ] Lumina function
+x H
+□ © ®
+IDA View-A
+Names
+Hex View-1
+Structures
+Enums
+Imports
+Li
+X to]
+x IH
+x El
+171 Functions
+
+
+
+Exports
+
+Function name
+_strtoul
+171 strtoul
+Q^i§
+mov
+jz
+3^@
+check_l: movzx movzx mov add cmp jz
+3^@
+imp
+K strtoul
+Line 1 of 2
+a^§
+j^ Graph overview
+□ © ®
+S Output
+ebx, cs:dword_F2C7 0 ebx, ebx check 1
+eax, word ptr cs:subkey_l edx, word ptr cs:subkey_2 cs:dword_F2C70, OAh eax, edx
+eax, 4A00h
+loc B5BA6
+cs:dword_F17C0, 3 loc B5BA6
+loc B5BA6:
+mov mov cmp jnz
+eax, cs:dword_F1358 [rsp+48h+var_3C], eax eax, 2 loc B5C71
+100.00% (216,282) (865,516) 000B5F26 00000000000B5F26: sub_B5B80:check_l (Synchronized with Hex View-1)
+□ © E
+Hex-Rays Decompiler plugin has been loaded (v8.0.0.220829) License: 00-0000-0000-00	(0 user)
+The decompilation hotkey is F5.
+Please check the Edit/Plugins menu for more information.
+Caching 'Functions'... ok
+Caching 'Names'
+ok
+IDC
+AU: idle Down
+Disk: 58GB

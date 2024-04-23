@@ -1,0 +1,8 @@
+loc_2A14D:
+mov rax,cs:qword_F1868
+
+[rax+rbp*4],ebx
+rlid,_cs:dword_F2090
+rlid,rlid
+shortloc_2A173
+

@@ -1,0 +1,13 @@
+ri2;xrex
+rbp
+rbp,rdi
+rbx
+rsp,38h
+
+eax,_[rdi]
+[rsp+68h+var_58],rsi
+dwordptr[rsp+68h+var_60],r&8d
+eax,1
+
+loc_91C38
+

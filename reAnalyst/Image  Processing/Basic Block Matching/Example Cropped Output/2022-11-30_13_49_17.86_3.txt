@@ -1,0 +1,6 @@
+loc_91C38:
+
+mov rax,[rdi+8]
+cmp dwordptr[rax],1
+jnz shortloc_91C90
+
