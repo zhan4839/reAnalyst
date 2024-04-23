@@ -1,6 +1,0 @@
-18h
-
-ebp,_cs:dword_555555646090
-ebp,ebp
-shortloc_555555609BA6
-

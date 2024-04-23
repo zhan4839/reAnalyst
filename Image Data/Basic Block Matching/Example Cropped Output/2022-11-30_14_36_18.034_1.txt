@@ -1,3 +1,0 @@
-[rax],rbx
-mov rdi,_cs:qword_5555556467A0
-

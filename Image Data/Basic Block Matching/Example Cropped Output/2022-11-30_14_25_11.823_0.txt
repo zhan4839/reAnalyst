@@ -1,4 +1,0 @@
-loc_5555555E9EAE:
-test byteptrcs:check_status_checks,4
-jz shortloc_5555555E9EC1
-

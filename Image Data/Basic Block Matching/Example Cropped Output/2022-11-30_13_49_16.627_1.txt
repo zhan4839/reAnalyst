@@ -1,5 +1,0 @@
-re
-
-loc_91FE2:
-imov. rax.cs:stderrptr
-
