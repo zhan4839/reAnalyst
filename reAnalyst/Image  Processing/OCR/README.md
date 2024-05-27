@@ -2,6 +2,8 @@
 
 This OCR script is designed to automatically upscale images and extract text using Tesseract OCR. It's a part of the reAnalyst framework, aimed at facilitating the scalable analysis of reverse engineering activities. The script processes all `.jpg` images in a specified input directory, upscales them for better OCR accuracy, and outputs extracted text to a specified output directory.
 
+We also provided a hOCR script to generate hOCR files instead of text files, which can be important to determine the exact location of each mouse click.
+
 ## Prerequisites
 
 - Python 3.x

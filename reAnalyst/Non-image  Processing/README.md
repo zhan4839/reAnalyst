@@ -8,7 +8,7 @@ This suite of Python scripts is designed to analyze non-image data collected dur
 - `process.py`: Analyzes the lifecycle of system processes, identifying when processes are opened and closed.
 - `process_debug_info.py`: Extracts information about debugging sessions.
 - `windows.py`: Extracts information about window focus changes during RE tasks.
-
+- `mouseclickmatch.py`: Analyzes mouse click data and screenshot data (in hOCR format) together to match each mouse click with coresponding symbol clicked on screenshots.
 ## Prerequisites
 
 - Python 3.x
