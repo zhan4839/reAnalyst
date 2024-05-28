@@ -9,6 +9,7 @@ This suite of Python scripts is designed to analyze non-image data collected dur
 - `process_debug_info.py`: Extracts information about debugging sessions.
 - `windows.py`: Extracts information about window focus changes during RE tasks.
 - `mouseclickmatch.py`: Analyzes mouse click data and screenshot data (in hOCR format) together to match each mouse click with coresponding symbol clicked on screenshots.
+- `featureAnalysis.py`: Analyzes keystroke data and screenshot data together to check any RE Tool features the reverse engineer has used and what they have typed while using these features.
 ## Prerequisites
 
 - Python 3.x
